@@ -1,11 +1,11 @@
 
 # Learning
 
-writing some codes to advance
+Writing some codes to advance
 
 ### Prerequisites
 
-little knowledge about some data structures and algorithms
+Little knowledge about some data structures and algorithms
 
 ```
 BFS(breadth-first-search), linkedList, etc.
@@ -13,4 +13,4 @@ BFS(breadth-first-search), linkedList, etc.
 
 ## Author
 
-* **MohamadHasanTaghadosi**
+* **MohamadHasan Taghadosi**
